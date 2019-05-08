@@ -1,0 +1,35 @@
+{
+	"providers": {
+		"awscloudformation": {
+			"AuthRoleName": "concilapifront-20190508113121-authRole",
+			"UnauthRoleArn": "arn:aws:iam::094381036356:role/concilapifront-20190508113121-unauthRole",
+			"AuthRoleArn": "arn:aws:iam::094381036356:role/concilapifront-20190508113121-authRole",
+			"Region": "sa-east-1",
+			"DeploymentBucketName": "concilapifront-20190508113121-deployment",
+			"UnauthRoleName": "concilapifront-20190508113121-unauthRole",
+			"StackName": "concilapifront-20190508113121",
+			"StackId": "arn:aws:cloudformation:sa-east-1:094381036356:stack/concilapifront-20190508113121/f2fcf8e0-719d-11e9-9191-504de64717fd"
+		}
+	},
+	"hosting": {
+		"S3AndCloudFront": {
+			"service": "S3AndCloudFront",
+			"providerPlugin": "awscloudformation",
+			"providerMetadata": {
+				"s3TemplateURL": "https://s3.amazonaws.com/concilapifront-20190508113121-deployment/amplify-cfn-templates/hosting/template.json",
+				"logicalId": "hostingS3AndCloudFront"
+			},
+			"lastPushTimeStamp": "2019-05-08T14:50:03.963Z",
+			"output": {
+				"CloudFrontSecureURL": "https://d1uygdns0emm5c.cloudfront.net",
+				"S3BucketSecureURL": "https://concil-api.s3.amazonaws.com",
+				"WebsiteURL": "http://concil-api.s3-website-sa-east-1.amazonaws.com",
+				"CloudFrontDistributionID": "E3SY69T4RE4LSJ",
+				"Region": "sa-east-1",
+				"HostingBucketName": "concil-api",
+				"CloudFrontDomainName": "d1uygdns0emm5c.cloudfront.net"
+			},
+			"lastPushDirHash": "vHXHM3yOWjWegzOz0kCbJp75QKY="
+		}
+	}
+}
