@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/concil-api/static/css/main.795991f2.chunk.css",
+    "main.js": "/concil-api/static/js/main.2396cbb2.chunk.js",
+    "main.js.map": "/concil-api/static/js/main.2396cbb2.chunk.js.map",
+    "runtime~main.js": "/concil-api/static/js/runtime~main.59784494.js",
+    "runtime~main.js.map": "/concil-api/static/js/runtime~main.59784494.js.map",
+    "static/css/2.4ed8dd72.chunk.css": "/concil-api/static/css/2.4ed8dd72.chunk.css",
+    "static/js/2.62bd4088.chunk.js": "/concil-api/static/js/2.62bd4088.chunk.js",
+    "static/js/2.62bd4088.chunk.js.map": "/concil-api/static/js/2.62bd4088.chunk.js.map",
+    "index.html": "/concil-api/index.html",
+    "precache-manifest.af94947b9c5716b8249af71158d8e625.js": "/concil-api/precache-manifest.af94947b9c5716b8249af71158d8e625.js",
+    "service-worker.js": "/concil-api/service-worker.js",
+    "static/css/2.4ed8dd72.chunk.css.map": "/concil-api/static/css/2.4ed8dd72.chunk.css.map",
+    "static/css/main.795991f2.chunk.css.map": "/concil-api/static/css/main.795991f2.chunk.css.map"
+  }
+}
