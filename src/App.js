@@ -4,7 +4,7 @@ import "swagger-ui-react/swagger-ui.css"
 
 function App() {
 
-	return <SwaggerUI url="https://s3-sa-east-1.amazonaws.com/concilswagger/external_api.yaml" />;
+	return <SwaggerUI url="https://s3-sa-east-1.amazonaws.com/concilswagger/external_api.yaml" docExpansion="list" />;
 }
 
 export default App;
