@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/concil-api/precache-manifest.af94947b9c5716b8249af71158d8e625.js"
+  "/concil-api/precache-manifest.92b5530aadc725281ad9159513f1d07e.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -34,6 +34,6 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/concil-api/index.html"), {
-
+  
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
