@@ -12,7 +12,7 @@
     "mobx-persist": "^0.4.1",
     "mobx-react": "^5.4.3",
     "mobx-react-form": "^2.0.2",
-    "npm": "^6.9.0",
+    "npm": "^9.6.5",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0",
