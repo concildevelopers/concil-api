@@ -6,7 +6,7 @@
   "dependencies": {
     "aws-amplify": "^1.1.19",
     "aws-amplify-react": "^2.3.0",
-    "aws-sdk": "^2.388.0",
+    "aws-sdk": "^2.1368.0",
     "core-js": "^2.6.5",
     "mobx": "^5.9.4",
     "mobx-persist": "^0.4.1",
